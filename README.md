@@ -8,7 +8,7 @@
 
 ## About Me
 
- - AI and ML enthusiast based in Tyumen, Russia
+ - AI/ML/NLP enthusiast based in Tyumen, Russia
  - Passionate about product team collaboration in the field of artificial intelligence 🤖, particularly in education 📚, healthcare 💉, and information security 🔐
  - Love working with LLMs and NLP, and I am always looking for opportunities to use these technologies to bring value to users and the community 💡
  - Quick learner and a team player, and I am always ready to adapt to new challenges and changing conditions 💪
