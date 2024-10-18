@@ -16,11 +16,11 @@
 
 ## Work
 
-- **AI Security Lab (ITMO x AI Talent Hub x Raft)** (oct 2024 – present): Red teaming framework [LLaMator](https://github.com/RomiconEZ/llamator) R&D, labs scrum master.
+- [**AI Security Lab [ITMO x AI Talent Hub x Raft]**](https://ai.itmo.ru/aisecuritylab) (oct 2024 – present): Red teaming framework [LLaMator](https://github.com/RomiconEZ/llamator) R&D, labs scrum master.
 
-- **Voproshalych** (sep 2023 – aug 2024): I led the development and implementation of a chatbot for University of Tyumen, which answers students' questions and reduces the workload on the managers of the UTMN Student's Office.  Technologies: Python, LangChain, Aiohttp, SentenceTransformers, PostgreSQL, PGVector, SQLAlchemy, Alembic, PyTest, Docker. Tools: GitLab CI/CD, GitHub, Miro. Repository: <https://github.com/nizamovtimur/virtassist> Chatbot link: <https://t.me/utmn_help_bot>
+- [**Voproshalych [UTMN]**](https://github.com/nizamovtimur/virtassist) (sep 2023 – aug 2024): I led the development and implementation of a chatbot for University of Tyumen, which answers students' questions and reduces the workload on the managers of the UTMN Student's Office.  Technologies: Python, LangChain, Aiohttp, SentenceTransformers, PostgreSQL, PGVector, SQLAlchemy, Alembic, PyTest, Docker. Tools: GitLab CI/CD, GitHub, Miro. Chatbot link: <https://t.me/utmn_help_bot>
 
-- **Otzyvus** (sep 2022 – jan 2024): I developed ML and Backend for a service for collecting and analyzing reviews on elective courses, which has become a corporate service of the university. Administrators use it to manage the elective space, and students use it to build their individual educational trajectories based on more than 1800 reviews from real students on more than 700 courses. 📊 Technologies: PHP, Laravel, Python, PyTorch, FastAPI, Transformers, MySQL, Docker. Tools: GitLab CI/CD, GitHub, Miro, Jira, Notion. Service link: <https://electives.utmn.ru>
+- [**Otzyvus [UTMN]**](https://electives.utmn.ru) (sep 2022 – jan 2024): I developed ML and Backend for a service for collecting and analyzing reviews on elective courses, which has become a corporate service of the university. Administrators use it to manage the elective space, and students use it to build their individual educational trajectories based on more than 1800 reviews from real students on more than 700 courses. 📊 Technologies: PHP, Laravel, Python, PyTorch, FastAPI, Transformers, MySQL, Docker. Tools: GitLab CI/CD, GitHub, Miro, Jira, Notion.
 
 ## Education
 
