@@ -9,27 +9,26 @@
 ## About Me
 
  - AI/ML/NLP enthusiast based in Tyumen, Russia
- - Passionate about product team collaboration in the field of artificial intelligence 🤖, particularly in education 📚, healthcare 💉, and information security 🔐
- - Love working with LLMs and NLP, and I am always looking for opportunities to use these technologies to bring value to users and the community 💡
+ - Passionate about product team collaboration in the fields of artificial intelligence 🤖, information security 🔐 and education 📚
  - Quick learner and a team player, and I am always ready to adapt to new challenges and changing conditions 💪
- - Check out my publications on [ResearchGate](https://www.researchgate.net/profile/Timur-Nizamov-2) 🌱
+ - Check out my publications @ [ResearchGate](https://www.researchgate.net/profile/Timur-Nizamov-2) 🌱
 
 ## Work
 
-- [**AI Security Lab [ITMO x AI Talent Hub x Raft]**](https://ai.itmo.ru/aisecuritylab) (oct 2024 – present): Red teaming framework [LLaMator](https://github.com/RomiconEZ/llamator) R&D, labs scrum master.
+- [**AI Security Lab [ITMO x AI Talent Hub x Raft]**](https://ai.itmo.ru/aisecuritylab) (Oct 2024 – present): Red teaming framework [LLaMator](https://github.com/RomiconEZ/llamator) R&D, labs scrum master.
 
-- [**Voproshalych [UTMN]**](https://github.com/nizamovtimur/virtassist) (sep 2023 – aug 2024): I led the development and implementation of a chatbot for University of Tyumen, which answers students' questions and reduces the workload on the managers of the UTMN Student's Office.  Technologies: Python, LangChain, Aiohttp, SentenceTransformers, PostgreSQL, PGVector, SQLAlchemy, Alembic, PyTest, Docker. Tools: GitLab CI/CD, GitHub, Miro. Chatbot link: <https://t.me/utmn_help_bot>
+- [**Voproshalych [UTMN]**](https://github.com/nizamovtimur/virtassist) (Sep 2023 – Aug 2024): I led the development and implementation of a chatbot for the University of Tyumen, which answers students' questions and reduces the workload on the managers of the UTMN Student's Office.  Technologies: Python, LangChain, Aiohttp, SentenceTransformers, PostgreSQL, PGVector, SQLAlchemy, Alembic, PyTest, Docker. Tools: GitLab CI/CD, GitHub, Miro. Chatbot link: <https://t.me/utmn_help_bot>
 
-- [**Otzyvus [UTMN]**](https://electives.utmn.ru) (sep 2022 – jan 2024): I developed ML and Backend for a service for collecting and analyzing reviews on elective courses, which has become a corporate service of the university. Administrators use it to manage the elective space, and students use it to build their individual educational trajectories based on more than 1800 reviews from real students on more than 700 courses. 📊 Technologies: PHP, Laravel, Python, PyTorch, FastAPI, Transformers, MySQL, Docker. Tools: GitLab CI/CD, GitHub, Miro, Jira, Notion.
+- [**Otzyvus [UTMN]**](https://electives.utmn.ru) (Sep 2022 – Jan 2024): I developed ML and Backend for a service for collecting and analyzing reviews on elective courses, which has become a corporate service of the university. Administrators use it to manage the elective space, and students use it to build their individual educational trajectories based on more than 1800 reviews from real students on more than 700 courses. 📊 Technologies: PHP, Laravel, Python, PyTorch, FastAPI, Transformers, MySQL, Docker. Tools: GitLab CI/CD, GitHub, Miro, Jira, Notion.
 
 ## Education
 
-- **ITMO University** - Master's degree in Artificial Intelligence, AI Talent Hub (September 2024 - July 2026) 🤖
-- **University of Tyumen** - Bachelor's degree in Mathematical Software and Information Systems Administration (September 2020 - July 2024) 👨‍💻
+- **ITMO University** - Master's degree in Artificial Intelligence, AI Talent Hub (Sep 2024 – Jul 2026) 🤖
+- **University of Tyumen** - Bachelor's degree in Mathematical Software and Information Systems Administration (Sep 2020 – Jul 2024) 👨‍💻
 
 ## Hackathons
 
-- **1st Place** at the AI Product Hack in Saint Petersburg, September 2024 - [LLaMator](https://github.com/RomiconEZ/llamator) 🥇
-- **2nd Place** at the Leaders of Digital. Artificial Intelligence hackathon in Chelyabinsk, May 2024 - [BuReClass](https://github.com/moad-dev/bureclass) 🥈
-- **4th Place** at the Leaders of Digital. Artificial Intelligence hackathon in Yekaterinburg, June 2023 - [RCS-vacancy](https://github.com/moad-dev/rcs-vacancy)
-- **5th Place** at the Leaders of Digital. Artificial Intelligence hackathon in Moscow, September 2022 - [Mishedron](https://github.com/nizamovtimur/mishedron)
+- **1st Place** @ the AI Product Hack in Saint Petersburg, Sep 2024: [LLaMator](https://github.com/RomiconEZ/llamator) 🥇
+- **2nd Place** @ the Leaders of Digital. Artificial Intelligence hackathon in Chelyabinsk, May 2024: [BuReClass](https://github.com/moad-dev/bureclass) 🥈
+- **4th Place** @ the Leaders of Digital. Artificial Intelligence hackathon in Yekaterinburg, Jun 2023: [RCS-vacancy](https://github.com/moad-dev/rcs-vacancy)
+- **5th Place** @ the Leaders of Digital. Artificial Intelligence hackathon in Moscow, Sep 2022: [Mishedron](https://github.com/nizamovtimur/mishedron)
